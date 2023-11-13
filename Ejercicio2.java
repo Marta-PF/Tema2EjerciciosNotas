@@ -65,7 +65,9 @@ public class Ejercicio2 {
         //Y fin. En la versión del video también pondré los numeros en el orden contrario.
 
 
-        //NOTA EXTRA: Antes me he preguntado si se podria resolver así, pero el ejercicio dice que hay que cambiar el valor de las variables, no el orden de impresión.
+        /*NOTA EXTRA: Antes me he preguntado si se podria resolver así, pero el ejercicio dice que hay que cambiar el valor de las variables, no el orden de impresión.
+        Además ahora con el aux no sale bien tampoco, tendría que quitarlo de arriba.
+        */
 
         System.out.println(numero2 +" " +numero3 +" " +numero4 +" " +numero5 +" " +numero1);
     }
