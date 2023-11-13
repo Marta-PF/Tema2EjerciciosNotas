@@ -16,7 +16,7 @@ c) Se muestren de nuevo el valor de las cinco variables de la misma forma que en
 /*Por lo que he visto, hay dos versiones corregidas del ejercicio: la versión Github y la versión del video de la primera tutoría extra.
 Parece que lo que lleva a confusión es que el enunciado dice "que el programa LEA", lo que llevaría a usar una variable llamada
 Scanner (que es la versión que se hace en el video).
-Vamos a empezar por la versión Github, que es más sencilla, y luego haré a parte la del video.
+Vamos a empezar por la versión Github, que es más sencilla, y luego haré aparte la del video.
  */
 
 
